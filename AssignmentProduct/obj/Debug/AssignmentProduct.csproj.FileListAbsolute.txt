@@ -1,0 +1,6 @@
+D:\ramya\sqlserver\ADO.NET\AssignmentProduct\bin\Debug\AssignmentProduct.exe.config
+D:\ramya\sqlserver\ADO.NET\AssignmentProduct\bin\Debug\AssignmentProduct.exe
+D:\ramya\sqlserver\ADO.NET\AssignmentProduct\bin\Debug\AssignmentProduct.pdb
+D:\ramya\sqlserver\ADO.NET\AssignmentProduct\obj\Debug\AssignmentProduct.csprojAssemblyReference.cache
+D:\ramya\sqlserver\ADO.NET\AssignmentProduct\obj\Debug\AssignmentProduct.exe
+D:\ramya\sqlserver\ADO.NET\AssignmentProduct\obj\Debug\AssignmentProduct.pdb

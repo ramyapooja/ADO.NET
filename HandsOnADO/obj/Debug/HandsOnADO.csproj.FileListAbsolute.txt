@@ -1,0 +1,6 @@
+D:\ramya\sqlserver\ADO.NET\HandsOnADO\bin\Debug\HandsOnADO.exe.config
+D:\ramya\sqlserver\ADO.NET\HandsOnADO\bin\Debug\HandsOnADO.exe
+D:\ramya\sqlserver\ADO.NET\HandsOnADO\bin\Debug\HandsOnADO.pdb
+D:\ramya\sqlserver\ADO.NET\HandsOnADO\obj\Debug\HandsOnADO.csprojAssemblyReference.cache
+D:\ramya\sqlserver\ADO.NET\HandsOnADO\obj\Debug\HandsOnADO.exe
+D:\ramya\sqlserver\ADO.NET\HandsOnADO\obj\Debug\HandsOnADO.pdb
